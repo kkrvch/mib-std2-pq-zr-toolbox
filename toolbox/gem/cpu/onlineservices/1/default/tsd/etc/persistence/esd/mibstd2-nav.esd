@@ -60,17 +60,17 @@ keyValue
 
 keyValue
     value   String sys 0x00000000 0
-    label   "Show Android Auto navigation on the instrument cluster (MQB only, no built-in navi needed)."
+    label   "Show Android Auto navigation on the instrument cluster"
 	poll 	0
 
 keyValue
     value   String sys 0x00000000 0
-    label   "Requires AAtoKombi.jar in custom/java and the patched libgal in custom/sal."
+    label   "Enabling requires AAtoKombi.jar in custom/java and the patched libgal in custom/sal."
 	poll 	0
 
 script
 	value 	sys 1 0x0100 "/tsd/etc/persistence/esd/scripts/activate_aatokombi.sh"
-	label 	"Enable AAtoKombi (cluster navigation)"
+	label 	"Enable AAtoKombi"
 
 script
 	value 	sys 1 0x0100 "/tsd/etc/persistence/esd/scripts/deactivate_aatokombi.sh"

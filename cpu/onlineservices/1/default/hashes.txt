@@ -99,16 +99,16 @@ FileSize = "2125"
 Checksum = "5815dda4816e333b14f0b9e81bbd828e489908fc"
 
 FileName = "/tsd/etc/persistence/esd/scripts/activate_aatokombi.sh"
-FileSize = "4622"
-Checksum = "6b84a4f2258de2a566e4fdae8f6d84a55364f866"
+FileSize = "4131"
+Checksum = "9b5dfb042b27b839887392989724070012c23aa6"
 
 FileName = "/tsd/etc/persistence/esd/scripts/deactivate_aatokombi.sh"
 FileSize = "2157"
 Checksum = "f45f19452cd64a372e7dcd3495c4ba103fef0927"
 
 FileName = "/tsd/etc/persistence/esd/scripts/dump_aatokombi_sources.sh"
-FileSize = "2768"
-Checksum = "23c337f2ac1b44d7ba878984cf109e6745192a97"
+FileSize = "2167"
+Checksum = "22297d638bf03dbb53bc7a6a1e77aa8fdef7f216"
 
 FileName = "/tsd/etc/persistence/esd/scripts/activate_perm_access.sh"
 FileSize = "1558"
